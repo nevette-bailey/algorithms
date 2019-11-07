@@ -10,3 +10,7 @@
    (from HackerRank: https://www.hackerrank.com/challenges/apple-and-orange/problem)
 5. Two Sum
    (from LeetCode: https://leetcode.com/problems/two-sum/)
+6. Reverse Integer
+   (from LeetCode: https://leetcode.com/problems/reverse-integer/)
+7. Kangaroo
+   (from HackerRank: https://www.hackerrank.com/challenges/kangaroo/problem)
