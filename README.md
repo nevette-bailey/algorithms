@@ -14,3 +14,5 @@
    (from LeetCode: https://leetcode.com/problems/reverse-integer/)
 7. Kangaroo
    (from HackerRank: https://www.hackerrank.com/challenges/kangaroo/problem)
+8. Roman to Integer
+   (from LeetCode : https://leetcode.com/problems/roman-to-integer/)
