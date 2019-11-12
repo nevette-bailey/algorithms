@@ -72,5 +72,5 @@ console.log('58? ', romanToInt('LVIII'));
 console.log('1994? ', romanToInt('MCMXCIV'));
 
 /*
-The Map object can function like a hash table in this case, using the .get(key) method to retrieve the desired value.
+The Map object can function like a "hash table" in this case, using the .get(key) method to retrieve the desired value.
 */
