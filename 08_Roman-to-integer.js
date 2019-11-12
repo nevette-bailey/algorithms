@@ -1,4 +1,3 @@
-/*eslint complexity: 0*/
 /*eslint dot-notation: 0*/
 /*
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
@@ -57,14 +56,7 @@ var romanToInt = function(s) {
   HT['I'] = 1;
 
   for (let i = 0; i < s.length; i++) {
-    if (
-      (s[i] === 'I' && s[i + 1] === 'V') ||
-      (s[i] === 'I' && s[i + 1] === 'X') ||
-      (s[i] === 'X' && s[i + 1] === 'L') ||
-      (s[i] === 'X' && s[i + 1] === 'C') ||
-      (s[i] === 'C' && s[i + 1] === 'D') ||
-      (s[i] === 'C' && s[i + 1] === 'M')
-    ) {
+    if (HT[s[i]] < HT[s[i + 1]]) {
       sum -= HT[s[i]];
     } else {
       sum += HT[s[i]];
@@ -72,3 +64,13 @@ var romanToInt = function(s) {
   }
   return sum;
 };
+
+console.log('3? ', romanToInt('III'));
+console.log('4? ', romanToInt('IV'));
+console.log('9? ', romanToInt('IX'));
+console.log('58? ', romanToInt('LVIII'));
+console.log('1994? ', romanToInt('MCMXCIV'));
+
+/*
+The Map object can function like a hash table in this case, using the .get(key) method to retrieve the desired value.
+*/
