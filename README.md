@@ -15,4 +15,7 @@
 7. Kangaroo
    (from HackerRank: https://www.hackerrank.com/challenges/kangaroo/problem)
 8. Roman to Integer
-   (from LeetCode : https://leetcode.com/problems/roman-to-integer/)
+   (from LeetCode: https://leetcode.com/problems/roman-to-integer/)
+9. Smallest Common Region
+   (from LeetCode Biweekly Contest 13: https://leetcode.com/contest/biweekly-contest-13/)
+10. Find The Words
