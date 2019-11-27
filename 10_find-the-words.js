@@ -1,5 +1,8 @@
 /*eslint complexity: ["error", 20]*/
+/*
+Given a "board" as a 2D array and a "word" as a string of letters, return true if the string of letters can be found in the board by traversing vertically and horizontally, only, and return false if it cannot.
 
+*/
 const board1 = [
   ['A', 'B', 'C', 'D', 'E'],
   ['F', 'G', 'H', 'I', 'J'],
