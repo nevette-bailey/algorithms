@@ -1,5 +1,6 @@
 /*eslint complexity: ["error", 20]*/
-/*
+/* Find The Words
+
 Given a "board" as a 2D array and a "word" as a string of letters, return true if the string of letters can be found in the board by traversing vertically and horizontally, only, and return false if it cannot.
 
 */
