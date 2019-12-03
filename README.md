@@ -19,3 +19,5 @@
 9. Smallest Common Region
    (from LeetCode Biweekly Contest 13: https://leetcode.com/contest/biweekly-contest-13/)
 10. Find The Words
+13. Long Pressed Name
+    (from LeetCode: https://leetcode.com/problems/long-pressed-name/)
