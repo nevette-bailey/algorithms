@@ -47,8 +47,8 @@ class Watchable {
   // - every registered callback needs to fire
 
   emit(data) {
-    for (const prop in this.registered) {
-      this.registered[prop](data);
+    for (const key in this.registered) {
+      this.registered[key](data);
     }
   }
 }
