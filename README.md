@@ -19,6 +19,13 @@
 9. Smallest Common Region
    (from LeetCode Biweekly Contest 13: https://leetcode.com/contest/biweekly-contest-13/)
 10. Find The Words
+11. Majority Elements
+12. Trapping Rain Water
+    (from LeetCode: https://leetcode.com/problems/trapping-rain-water/)
 13. Long Pressed Name
     (from LeetCode: https://leetcode.com/problems/long-pressed-name/)
 14. Get Tree Path
+15. Binary Tree Level Order Traversal
+    (from: https://leetcode.com/problems/binary-tree-level-order-traversal/)
+16. Watchable
+    (from: https://gist.github.com/short-matthew-f/e8e8fd90148e6386010a429e5afe617c)
