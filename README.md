@@ -29,3 +29,19 @@
     (from: https://leetcode.com/problems/binary-tree-level-order-traversal/)
 16. Watchable
     (from: https://gist.github.com/short-matthew-f/e8e8fd90148e6386010a429e5afe617c)
+17. Element Appears More Than 20%
+    (from: https://leetcode.com/contest/biweekly-contest-15/problems/element-appearing-more-than-25-in-sorted-array/)
+18. Remove Covered Interval
+    (from: https://leetcode.com/contest/biweekly-contest-15/problems/remove-covered-intervals/)
+19. Iterator for Combination
+    (from: https://leetcode.com/contest/biweekly-contest-15/problems/iterator-for-combination/)
+20. Minimum Falling Path Sum II
+    (from: https://leetcode.com/contest/biweekly-contest-15/problems/minimum-falling-path-sum-ii/)
+21. Hostogram of Integers
+22. Baby Shark
+    (from several online sources)
+23. Abbreviator
+24. Randon Practice
+25. Counter
+26. Minimum Domino Rotations for Equal Row
+    (from https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
