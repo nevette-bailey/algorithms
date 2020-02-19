@@ -37,7 +37,7 @@
     (from: https://leetcode.com/contest/biweekly-contest-15/problems/iterator-for-combination/)
 20. Minimum Falling Path Sum II
     (from: https://leetcode.com/contest/biweekly-contest-15/problems/minimum-falling-path-sum-ii/)
-21. Hostogram of Integers
+21. Histogram of Integers
 22. Baby Shark
     (from several online sources)
 23. Abbreviator
@@ -45,3 +45,7 @@
 25. Counter
 26. Minimum Domino Rotations for Equal Row
     (from https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+27. Palindrome Numbers
+    (https://leetcode.com/problems/palindrome-number/)
+28. Update Photo Filenames
+

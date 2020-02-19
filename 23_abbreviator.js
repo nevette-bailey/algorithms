@@ -12,7 +12,6 @@ mocha.suite.emit('pre-require', this, 'solution', mocha);
  *
  * “accessibility” => “a11y”
  * “internationalization” => “i18n”
- * "Etsy" => "E2y"
  * "" => ""
  * null => ""
  * ab => ab
